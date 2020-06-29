@@ -19,7 +19,7 @@ The steps were:
 
 
 ## The experiment is described below
-======
+====================================
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
