@@ -9,6 +9,14 @@ The code named run_analysis.R joins the Database asociated to the Human Activity
 At the begining of the R script change the directory you are working at.
 
 
+The steps were:
+
+1. Merging all the data sets together
+2. Extract all variables that include the mean or standard deviation
+3. Label the activities in the data set
+4. Name all the variables
+5. Create the final data set by averaging the variables in groups
+
 
 # The Database is described below
 
