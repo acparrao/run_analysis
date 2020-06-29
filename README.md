@@ -1,11 +1,13 @@
 # run_analysis
 run_analysis Data Science Coursera
 
-===================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
+================================================================
 # The code 
 
 The code named run_analysis.R joins the Database asociated to the Human Activity Recognition Using Smartphones experiment, it Joins the Train and test Dataset into the Total dataset, groups by the subject and the activity they have made and takes only the mean and standard deviation variables from the data, next it takes the mean for each variable and summarize the Data by the groups made before. The results are presented in run_analysis.txt data
+
+At the begining of the R script change the directory you are working at.
+
 
 
 # The Database is described below
