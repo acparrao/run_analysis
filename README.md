@@ -18,8 +18,7 @@ The steps were:
 5. Create the final data set by averaging the variables in groups
 
 
-# The Database is described below
-
+## The experiment is described below
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
