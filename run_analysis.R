@@ -1,8 +1,10 @@
+## Set the working directory you are working at
 setwd("~/Desktop/datasciencecoursera/run_analysis")
 library(readr)
 library(dplyr)
 library(stringr)
 
+# read the data
 features <- read_delim("UCI HAR Dataset/features.txt", 
                        col_names = FALSE, delim = " ")
 activity_labels <- read_delim("UCI HAR Dataset/activity_labels.txt", 
